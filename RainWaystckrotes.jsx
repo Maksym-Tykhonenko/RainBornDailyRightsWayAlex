@@ -322,7 +322,7 @@ const RainWaystckrotes = () => {
   OneSignal.Debug.setLogLevel(LogLevel.Verbose);
 
   // OneSignal ініціалізація
-  OneSignal.initialize('47c910d9-fa25-48fe-9ce8-eea38b86dc34');
+  OneSignal.initialize('137e39e3-aa53-45c0-adb7-fb2eccbd49b1');
   //OneSignal.Debug.setLogLevel(OneSignal.LogLevel.Verbose);
 
   // Встановлюємо цей ID як OneSignal External ID
